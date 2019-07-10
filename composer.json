@@ -1,0 +1,19 @@
+{
+    "name": "franjimenez/plantilla",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "franjimenez",
+            "email": "fjimenezjob@gmail.com"
+        }
+    ],
+    "autoload": {
+        
+        "psr-4": {
+            "models\\":"models/"
+        }
+    },
+
+    "require": {}
+}
